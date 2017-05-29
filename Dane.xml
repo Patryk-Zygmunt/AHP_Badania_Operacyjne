@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ALTERNATYWY id="ALT">
+	<OPCJA>
+		<NAZWA>Berlin</NAZWA>
+		<WAGI>
+			<CENA>2</CENA>
+			<ODLEGLOSC>4</ODLEGLOSC>
+			<KLIMAT>1</KLIMAT>
+		</WAGI>
+	</OPCJA>
+</ALTERNATYWY>
+

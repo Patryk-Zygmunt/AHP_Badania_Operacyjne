@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alternatywaList>
+    <lst>
+        <Nazwa>Berlin/Berlin</Nazwa>
+        <mymap>
+            <Ka>1.1</Ka>
+            <Kb>2.2</Kb>
+            <Kc>0.2</Kc>
+        </mymap>
+    </lst>
+    <lst>
+        <Nazwa>Berlin/Paryz</Nazwa>
+        <mymap>
+            <Ka>1.0</Ka>
+            <Kb>2.2</Kb>
+            <Kc>0.2</Kc>
+        </mymap>
+    </lst>
+    <lst>
+        <Nazwa>Paryz/Berlin</Nazwa>
+        <mymap>
+            <Ka>1.0</Ka>
+            <Kb>2.2</Kb>
+            <Kc>0.2</Kc>
+        </mymap>
+    </lst>
+    <lst>
+        <Nazwa>Paryz/Paryz</Nazwa>
+        <mymap>
+            <Ka>1.0</Ka>
+            <Kb>2.2</Kb>
+            <Kc>0.2</Kc>
+        </mymap>
+    </lst>
+</alternatywaList>

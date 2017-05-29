@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<xs:attribute name="id" type="xs:ID"/> 
+<KOT id="k">
+<IMIE>PUSZEK</IMIE>
+<WIEK>6</WIEK>
+<DOMEK>Okno</DOMEK>
+</KOT>
+<LOT>
+<IMIE>PUSZEK</IMIE>
+<WIEK>6</WIEK>
+<DOMEK>Okno</DOMEK>
+</LOT>
